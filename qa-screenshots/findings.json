@@ -1,0 +1,202 @@
+{
+  "findings": [
+    {
+      "id": "experience-expand-count",
+      "expandCount": 3
+    },
+    {
+      "id": "experience-expand",
+      "before": "true",
+      "after": "false"
+    },
+    {
+      "id": "skills-filter",
+      "beforeCount": 25,
+      "afterEmptySearch": 0,
+      "filteredCount": 7,
+      "chipTexts": [
+        "All",
+        "Dispatch & Logistics",
+        "Compliance & Safety",
+        "Platforms & Tools",
+        "Leadership & Soft Skills",
+        "Technology",
+        "All",
+        "US/EU",
+        "India",
+        "Both",
+        "All",
+        "Working"
+      ]
+    },
+    {
+      "id": "chip-a11y",
+      "chipA11y": [
+        {
+          "text": "All",
+          "ariaPressed": null
+        },
+        {
+          "text": "Dispatch & Logistics",
+          "ariaPressed": null
+        },
+        {
+          "text": "Compliance & Safety",
+          "ariaPressed": null
+        },
+        {
+          "text": "Platforms & Tools",
+          "ariaPressed": null
+        },
+        {
+          "text": "Leadership & Soft Skills",
+          "ariaPressed": null
+        },
+        {
+          "text": "Technology",
+          "ariaPressed": null
+        },
+        {
+          "text": "All",
+          "ariaPressed": null
+        },
+        {
+          "text": "US/EU",
+          "ariaPressed": null
+        },
+        {
+          "text": "India",
+          "ariaPressed": null
+        },
+        {
+          "text": "Both",
+          "ariaPressed": null
+        },
+        {
+          "text": "All",
+          "ariaPressed": null
+        },
+        {
+          "text": "Working",
+          "ariaPressed": null
+        },
+        {
+          "text": "Strong",
+          "ariaPressed": null
+        },
+        {
+          "text": "Expert",
+          "ariaPressed": null
+        }
+      ]
+    },
+    {
+      "id": "playbooks-search",
+      "pbBefore": 8,
+      "pbAfter": 1
+    },
+    {
+      "id": "proof-tabs",
+      "step2Visible": true
+    },
+    {
+      "id": "contact-validation",
+      "anyErr": [
+        "Name is required.",
+        "Email is required.",
+        "Select a hiring market.",
+        "Please include at least 20 characters about the role."
+      ]
+    },
+    {
+      "id": "contact-field-a11y",
+      "fieldA11y": [
+        {
+          "id": "name",
+          "ariaInvalid": null,
+          "ariaDescribedby": null,
+          "hasLabel": true
+        },
+        {
+          "id": "email",
+          "ariaInvalid": null,
+          "ariaDescribedby": null,
+          "hasLabel": true
+        },
+        {
+          "id": "market",
+          "ariaInvalid": null,
+          "ariaDescribedby": null,
+          "hasLabel": true
+        },
+        {
+          "id": "message",
+          "ariaInvalid": null,
+          "ariaDescribedby": null,
+          "hasLabel": true
+        }
+      ]
+    },
+    {
+      "id": "contact-submit",
+      "successVisible": true,
+      "mailto": {
+        "href": null,
+        "patchErr": null
+      },
+      "consoleSeen": "Career HQ contact submission {name: Tess QA, email: tess@example.com, company: , market: US/EU remote or hybrid logistics, message: QA test message with enough characters for validation threshold.}"
+    },
+    {
+      "id": "theme-toggle",
+      "isDark": true
+    },
+    {
+      "id": "mobile-menu-label",
+      "menuLabelWhenOpen": "Open menu",
+      "expanded": "true"
+    },
+    {
+      "id": "mobile-menu",
+      "menuOpen": true
+    },
+    {
+      "id": "viewport-1024",
+      "nav": {
+        "w": 1024,
+        "navDisplay": "flex",
+        "menuDisplay": "none",
+        "headerHeight": 64,
+        "scrollWidth": 1024,
+        "clientWidth": 1024,
+        "clipped": [],
+        "gap": 16,
+        "overlap": false,
+        "linkCount": 10
+      }
+    },
+    {
+      "id": "viewport-1280",
+      "nav": {
+        "w": 1280,
+        "navDisplay": "flex",
+        "menuDisplay": "none",
+        "headerHeight": 64,
+        "scrollWidth": 1280,
+        "clientWidth": 1280,
+        "clipped": [],
+        "gap": 16,
+        "overlap": false,
+        "linkCount": 10
+      }
+    },
+    {
+      "id": "external-links-about",
+      "externals": []
+    },
+    {
+      "id": "external-links-resume",
+      "externals": []
+    }
+  ],
+  "consoleByPage": {}
+}

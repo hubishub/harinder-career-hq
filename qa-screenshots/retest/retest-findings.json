@@ -1,0 +1,312 @@
+{
+  "issues": {
+    "QA-001": {
+      "status": "FIXED",
+      "brand1024": [
+        {
+          "text": "Harinder Sidhu",
+          "truncated": false,
+          "clientWidth": 133,
+          "scrollWidth": 133
+        },
+        {
+          "text": "Career HQ · Open to Work",
+          "truncated": false,
+          "clientWidth": 133,
+          "scrollWidth": 133
+        }
+      ],
+      "brand1280": [
+        {
+          "text": "Harinder Sidhu",
+          "truncated": false,
+          "clientWidth": 133,
+          "scrollWidth": 133
+        },
+        {
+          "text": "Career HQ · Open to Work",
+          "truncated": false,
+          "clientWidth": 133,
+          "scrollWidth": 133
+        }
+      ]
+    },
+    "QA-002": {
+      "status": "FIXED",
+      "fieldA11y": [
+        {
+          "id": "name",
+          "ariaInvalid": "true",
+          "ariaDescribedby": "name-error",
+          "errorText": "Name is required.",
+          "errorExists": true
+        },
+        {
+          "id": "email",
+          "ariaInvalid": "true",
+          "ariaDescribedby": "email-error",
+          "errorText": "Email is required.",
+          "errorExists": true
+        },
+        {
+          "id": "market",
+          "ariaInvalid": "true",
+          "ariaDescribedby": "market-error",
+          "errorText": "Select a hiring market.",
+          "errorExists": true
+        },
+        {
+          "id": "message",
+          "ariaInvalid": "true",
+          "ariaDescribedby": "message-error",
+          "errorText": "Please include at least 20 characters about the role.",
+          "errorExists": true
+        }
+      ]
+    },
+    "QA-003": {
+      "status": "FIXED",
+      "skillsChips": [
+        {
+          "text": "All",
+          "pressed": "false"
+        },
+        {
+          "text": "Dispatch & Logistics",
+          "pressed": "true"
+        },
+        {
+          "text": "Compliance & Safety",
+          "pressed": "false"
+        },
+        {
+          "text": "Platforms & Tools",
+          "pressed": "false"
+        },
+        {
+          "text": "Leadership & Soft Skills",
+          "pressed": "false"
+        },
+        {
+          "text": "Technology",
+          "pressed": "false"
+        },
+        {
+          "text": "All",
+          "pressed": "true"
+        },
+        {
+          "text": "US/EU",
+          "pressed": "false"
+        }
+      ],
+      "pbChips": [
+        {
+          "text": "All tags",
+          "pressed": "false"
+        },
+        {
+          "text": "HOS",
+          "pressed": "true"
+        },
+        {
+          "text": "MC authority",
+          "pressed": "false"
+        },
+        {
+          "text": "SOP",
+          "pressed": "false"
+        },
+        {
+          "text": "accessorials",
+          "pressed": "false"
+        },
+        {
+          "text": "brokers",
+          "pressed": "false"
+        },
+        {
+          "text": "check-calls",
+          "pressed": "false"
+        },
+        {
+          "text": "communication",
+          "pressed": "false"
+        },
+        {
+          "text": "compliance",
+          "pressed": "false"
+        },
+        {
+          "text": "detention",
+          "pressed": "false"
+        },
+        {
+          "text": "drivers",
+          "pressed": "false"
+        },
+        {
+          "text": "exceptions",
+          "pressed": "false"
+        },
+        {
+          "text": "fleet",
+          "pressed": "false"
+        },
+        {
+          "text": "hiring",
+          "pressed": "false"
+        },
+        {
+          "text": "load-planning",
+          "pressed": "false"
+        },
+        {
+          "text": "operations",
+          "pressed": "false"
+        },
+        {
+          "text": "process",
+          "pressed": "false"
+        },
+        {
+          "text": "relationships",
+          "pressed": "false"
+        },
+        {
+          "text": "remote",
+          "pressed": "false"
+        },
+        {
+          "text": "routing",
+          "pressed": "false"
+        },
+        {
+          "text": "team",
+          "pressed": "false"
+        },
+        {
+          "text": "timezone",
+          "pressed": "false"
+        },
+        {
+          "text": "training",
+          "pressed": "false"
+        }
+      ],
+      "skillsOk": true,
+      "pbOk": true
+    },
+    "QA-004": {
+      "status": "FIXED",
+      "before": {
+        "label": "Open menu",
+        "expanded": "false"
+      },
+      "after": {
+        "label": "Close menu",
+        "expanded": "true"
+      }
+    },
+    "QA-005": {
+      "status": "FIXED",
+      "skip": {
+        "present": true,
+        "href": "#main",
+        "text": "Skip to main content",
+        "className": "skip-link",
+        "mainId": "main",
+        "mainTag": "MAIN"
+      },
+      "focused": {
+        "tag": "A",
+        "href": "#main",
+        "text": "Skip to main content",
+        "className": "skip-link"
+      }
+    }
+  },
+  "smoke": [
+    {
+      "route": "/",
+      "status": 200,
+      "title": "Harinder Sidhu · Career HQ",
+      "h1": 1,
+      "main": 1,
+      "ok": true
+    },
+    {
+      "route": "/experience",
+      "status": 200,
+      "title": "Experience · Harinder Sidhu",
+      "h1": 1,
+      "main": 1,
+      "ok": true
+    },
+    {
+      "route": "/skills",
+      "status": 200,
+      "title": "Skills · Harinder Sidhu",
+      "h1": 1,
+      "main": 1,
+      "ok": true
+    },
+    {
+      "route": "/markets/us-eu",
+      "status": 200,
+      "title": "US/EU Markets · Harinder Sidhu",
+      "h1": 1,
+      "main": 1,
+      "ok": true
+    },
+    {
+      "route": "/markets/india",
+      "status": 200,
+      "title": "India Markets · Harinder Sidhu",
+      "h1": 1,
+      "main": 1,
+      "ok": true
+    },
+    {
+      "route": "/playbooks",
+      "status": 200,
+      "title": "Playbooks · Harinder Sidhu",
+      "h1": 1,
+      "main": 1,
+      "ok": true
+    },
+    {
+      "route": "/proof",
+      "status": 200,
+      "title": "Proof · Harinder Sidhu",
+      "h1": 1,
+      "main": 1,
+      "ok": true
+    },
+    {
+      "route": "/resume",
+      "status": 200,
+      "title": "Resume · Harinder Sidhu",
+      "h1": 1,
+      "main": 1,
+      "ok": true
+    },
+    {
+      "route": "/contact",
+      "status": 200,
+      "title": "Contact · Harinder Sidhu",
+      "h1": 1,
+      "main": 1,
+      "ok": true
+    },
+    {
+      "route": "/about",
+      "status": 200,
+      "title": "About · Harinder Sidhu",
+      "h1": 1,
+      "main": 1,
+      "ok": true
+    }
+  ],
+  "console": []
+}

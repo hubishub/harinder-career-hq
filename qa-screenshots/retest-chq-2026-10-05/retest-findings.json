@@ -1,0 +1,102 @@
+{
+  "issues": {
+    "CHQ-001": {
+      "status": "FIXED",
+      "ratio": 8.49,
+      "detail": {
+        "name": "active-nav",
+        "text": "Home",
+        "className": "rounded-lg px-1.5 py-1.5 text-[11px] font-medium transition xl:px-2.5 xl:text-sm bg-brand-100 text-brand-900 dark:bg-bra",
+        "color": [
+          30,
+          58,
+          138
+        ],
+        "bg": [
+          219,
+          234,
+          254
+        ],
+        "ratio": 8.49,
+        "passes45": true,
+        "passes3": true
+      },
+      "note": "Small nav text treated as needing ≥4.5:1"
+    },
+    "CHQ-002": {
+      "status": "FIXED",
+      "ratio": 8.57,
+      "detail": {
+        "name": "hero-badge",
+        "text": "Open to Work · onsite Mohali/Chandigarh + remote US/EU",
+        "className": "inline-flex items-center gap-2 rounded-full border border-emerald-600/40 bg-emerald-100 px-3 py-1 text-xs font-semibold ",
+        "color": [
+          6,
+          78,
+          59
+        ],
+        "bg": [
+          209,
+          250,
+          229
+        ],
+        "ratio": 8.57,
+        "passes45": true,
+        "passes3": true
+      },
+      "about": {
+        "text": "Open to Work",
+        "className": "inline-flex items-center gap-2 rounded-full bg-emerald-100 px-3 py-1 text-xs font-semibold text-emerald-900 dark:bg-emer",
+        "color": [
+          6,
+          78,
+          59
+        ],
+        "bg": [
+          209,
+          250,
+          229
+        ],
+        "ratio": 8.57,
+        "passes45": true
+      }
+    },
+    "CHQ-003": {
+      "status": "FIXED",
+      "motion": {
+        "mq": true,
+        "textVisible": true,
+        "opacity": "1",
+        "transform": "none",
+        "hiddenLarge": [],
+        "cssRulePresent": true
+      },
+      "source": "FadeIn uses useReducedMotion; globals.css has @media (prefers-reduced-motion: reduce)"
+    }
+  },
+  "smoke": [
+    {
+      "route": "/",
+      "status": 200,
+      "skip": true,
+      "ok": true
+    },
+    {
+      "route": "/resume",
+      "status": 200,
+      "skip": true,
+      "ok": true
+    },
+    {
+      "route": "/contact",
+      "status": 200,
+      "skip": true,
+      "ok": true
+    }
+  ],
+  "notes": [
+    {
+      "hasReducedMotionCss": true
+    }
+  ]
+}

@@ -1,0 +1,752 @@
+{
+  "routes": [
+    {
+      "route": "/",
+      "status": 200,
+      "title": "Harinder Sidhu · Career HQ",
+      "h1": "Harinder Singh Sidhu",
+      "h1count": 1,
+      "landmarks": {
+        "main": true,
+        "mainId": "main",
+        "mainTabIndex": -1,
+        "header": true,
+        "footer": true,
+        "skip": true
+      },
+      "overflow": false,
+      "ok": true
+    },
+    {
+      "route": "/experience",
+      "status": 200,
+      "title": "Experience · Harinder Sidhu",
+      "h1": "US dry-van dispatch leadership, chapter by chapter",
+      "h1count": 1,
+      "landmarks": {
+        "main": true,
+        "mainId": "main",
+        "mainTabIndex": -1,
+        "header": true,
+        "footer": true,
+        "skip": true
+      },
+      "overflow": false,
+      "ok": true
+    },
+    {
+      "route": "/experience/ajit-transport-senior-logistics",
+      "status": 200,
+      "title": "Senior Logistics Manager · Ajit Transport LLC · Harinder Sidhu",
+      "h1": "Senior Logistics Manager",
+      "h1count": 1,
+      "landmarks": {
+        "main": true,
+        "mainId": "main",
+        "mainTabIndex": -1,
+        "header": true,
+        "footer": true,
+        "skip": true
+      },
+      "overflow": false,
+      "ok": true
+    },
+    {
+      "route": "/experience/king-spade-dispatch-manager",
+      "status": 200,
+      "title": "Dispatch Manager · King Spade LLC · Harinder Sidhu",
+      "h1": "Dispatch Manager",
+      "h1count": 1,
+      "landmarks": {
+        "main": true,
+        "mainId": "main",
+        "mainTabIndex": -1,
+        "header": true,
+        "footer": true,
+        "skip": true
+      },
+      "overflow": false,
+      "ok": true
+    },
+    {
+      "route": "/experience/gps-logistics-dispatcher",
+      "status": 200,
+      "title": "Dispatcher · GPS Logistics LLC · Harinder Sidhu",
+      "h1": "Dispatcher",
+      "h1count": 1,
+      "landmarks": {
+        "main": true,
+        "mainId": "main",
+        "mainTabIndex": -1,
+        "header": true,
+        "footer": true,
+        "skip": true
+      },
+      "overflow": false,
+      "ok": true
+    },
+    {
+      "route": "/skills",
+      "status": 200,
+      "title": "Skills · Harinder Sidhu",
+      "h1": "Logistics depth, ops soft skills, and tech literacy",
+      "h1count": 1,
+      "landmarks": {
+        "main": true,
+        "mainId": "main",
+        "mainTabIndex": -1,
+        "header": true,
+        "footer": true,
+        "skip": true
+      },
+      "overflow": false,
+      "ok": true
+    },
+    {
+      "route": "/markets/us-eu",
+      "status": 200,
+      "title": "US/EU Markets · Harinder Sidhu",
+      "h1": "US & EU dry-van / logistics recruiters",
+      "h1count": 1,
+      "landmarks": {
+        "main": true,
+        "mainId": "main",
+        "mainTabIndex": -1,
+        "header": true,
+        "footer": true,
+        "skip": true
+      },
+      "overflow": false,
+      "ok": true
+    },
+    {
+      "route": "/markets/india",
+      "status": 200,
+      "title": "India Markets · Harinder Sidhu",
+      "h1": "Mohali · Chandigarh · Punjab — onsite ready",
+      "h1count": 1,
+      "landmarks": {
+        "main": true,
+        "mainId": "main",
+        "mainTabIndex": -1,
+        "header": true,
+        "footer": true,
+        "skip": true
+      },
+      "overflow": false,
+      "ok": true
+    },
+    {
+      "route": "/playbooks",
+      "status": 200,
+      "title": "Playbooks · Harinder Sidhu",
+      "h1": "Playbooks for dry-van desks",
+      "h1count": 1,
+      "landmarks": {
+        "main": true,
+        "mainId": "main",
+        "mainTabIndex": -1,
+        "header": true,
+        "footer": true,
+        "skip": true
+      },
+      "overflow": false,
+      "ok": true
+    },
+    {
+      "route": "/playbooks/check-call-discipline",
+      "status": 200,
+      "title": "Check-Call Discipline That Prevents Surprises · Harinder Sidhu",
+      "h1": "Check-Call Discipline That Prevents Surprises",
+      "h1count": 1,
+      "landmarks": {
+        "main": true,
+        "mainId": "main",
+        "mainTabIndex": -1,
+        "header": true,
+        "footer": true,
+        "skip": true
+      },
+      "overflow": false,
+      "ok": true
+    },
+    {
+      "route": "/playbooks/load-planning-hos",
+      "status": 200,
+      "title": "Load Planning That Respects HOS and Miles · Harinder Sidhu",
+      "h1": "Load Planning That Respects HOS and Miles",
+      "h1count": 1,
+      "landmarks": {
+        "main": true,
+        "mainId": "main",
+        "mainTabIndex": -1,
+        "header": true,
+        "footer": true,
+        "skip": true
+      },
+      "overflow": false,
+      "ok": true
+    },
+    {
+      "route": "/playbooks/detention-accessorials",
+      "status": 200,
+      "title": "Detention and Accessorials Without Burning Bridges · Harinder Sidhu",
+      "h1": "Detention and Accessorials Without Burning Bridges",
+      "h1count": 1,
+      "landmarks": {
+        "main": true,
+        "mainId": "main",
+        "mainTabIndex": -1,
+        "header": true,
+        "footer": true,
+        "skip": true
+      },
+      "overflow": false,
+      "ok": true
+    },
+    {
+      "route": "/playbooks/broker-shipper-comms",
+      "status": 200,
+      "title": "Broker and Shipper Communications That Build Callback Priority · Harinder Sidhu",
+      "h1": "Broker and Shipper Communications That Build Callback Priority",
+      "h1count": 1,
+      "landmarks": {
+        "main": true,
+        "mainId": "main",
+        "mainTabIndex": -1,
+        "header": true,
+        "footer": true,
+        "skip": true
+      },
+      "overflow": false,
+      "ok": true
+    },
+    {
+      "route": "/playbooks/overnight-us-coverage",
+      "status": 200,
+      "title": "Running US Pacific Hours from India Overnight Ops · Harinder Sidhu",
+      "h1": "Running US Pacific Hours from India Overnight Ops",
+      "h1count": 1,
+      "landmarks": {
+        "main": true,
+        "mainId": "main",
+        "mainTabIndex": -1,
+        "header": true,
+        "footer": true,
+        "skip": true
+      },
+      "overflow": false,
+      "ok": true
+    },
+    {
+      "route": "/playbooks/mc-authority-cutover",
+      "status": 200,
+      "title": "MC Authority Cutover Playbook (Zero Coverage Downtime) · Harinder Sidhu",
+      "h1": "MC Authority Cutover Playbook (Zero Coverage Downtime)",
+      "h1count": 1,
+      "landmarks": {
+        "main": true,
+        "mainId": "main",
+        "mainTabIndex": -1,
+        "header": true,
+        "footer": true,
+        "skip": true
+      },
+      "overflow": false,
+      "ok": true
+    },
+    {
+      "route": "/playbooks/sop-shift-handoff",
+      "status": 200,
+      "title": "Dispatch Shift Handoff SOP · Harinder Sidhu",
+      "h1": "Dispatch Shift Handoff SOP",
+      "h1count": 1,
+      "landmarks": {
+        "main": true,
+        "mainId": "main",
+        "mainTabIndex": -1,
+        "header": true,
+        "footer": true,
+        "skip": true
+      },
+      "overflow": false,
+      "ok": true
+    },
+    {
+      "route": "/playbooks/day-one-dispatch-onboarding",
+      "status": 200,
+      "title": "Day-One Onboarding for a New Dry-Van Dispatcher · Harinder Sidhu",
+      "h1": "Day-One Onboarding for a New Dry-Van Dispatcher",
+      "h1count": 1,
+      "landmarks": {
+        "main": true,
+        "mainId": "main",
+        "mainTabIndex": -1,
+        "header": true,
+        "footer": true,
+        "skip": true
+      },
+      "overflow": false,
+      "ok": true
+    },
+    {
+      "route": "/proof",
+      "status": 200,
+      "title": "Proof · Harinder Sidhu",
+      "h1": "Scenarios, SOPs, and a day in dispatch",
+      "h1count": 1,
+      "landmarks": {
+        "main": true,
+        "mainId": "main",
+        "mainTabIndex": -1,
+        "header": true,
+        "footer": true,
+        "skip": true
+      },
+      "overflow": false,
+      "ok": true
+    },
+    {
+      "route": "/resume",
+      "status": 200,
+      "title": "Resume · Harinder Sidhu",
+      "h1": "Resume",
+      "h1count": 1,
+      "landmarks": {
+        "main": true,
+        "mainId": "main",
+        "mainTabIndex": -1,
+        "header": true,
+        "footer": true,
+        "skip": true
+      },
+      "overflow": false,
+      "ok": true
+    },
+    {
+      "route": "/contact",
+      "status": 200,
+      "title": "Contact · Harinder Sidhu",
+      "h1": "Start a hiring conversation",
+      "h1count": 1,
+      "landmarks": {
+        "main": true,
+        "mainId": "main",
+        "mainTabIndex": -1,
+        "header": true,
+        "footer": true,
+        "skip": true
+      },
+      "overflow": false,
+      "ok": true
+    },
+    {
+      "route": "/about",
+      "status": 200,
+      "title": "About · Harinder Sidhu",
+      "h1": "Operator first — technical enough to improve the desk",
+      "h1count": 1,
+      "landmarks": {
+        "main": true,
+        "mainId": "main",
+        "mainTabIndex": -1,
+        "header": true,
+        "footer": true,
+        "skip": true
+      },
+      "overflow": false,
+      "ok": true
+    }
+  ],
+  "dangling": [],
+  "interactions": {
+    "experience": {
+      "expCount": 3,
+      "before": "true",
+      "after": "false",
+      "toggled": true
+    },
+    "skills": {
+      "beforeH3": 25,
+      "emptyH3": 0,
+      "pressed": "true",
+      "filteredH3": 7
+    },
+    "playbooks": {
+      "pbBefore": 8,
+      "pbAfter": 1,
+      "tagPressed": 1
+    },
+    "proof": {
+      "step2": true,
+      "tabSelected": "true"
+    },
+    "contactValidation": [
+      {
+        "id": "name",
+        "invalid": "true",
+        "describedby": "name-error",
+        "errText": "Name is required.",
+        "hasLabel": true
+      },
+      {
+        "id": "email",
+        "invalid": "true",
+        "describedby": "email-error",
+        "errText": "Email is required.",
+        "hasLabel": true
+      },
+      {
+        "id": "market",
+        "invalid": "true",
+        "describedby": "market-error",
+        "errText": "Select a hiring market.",
+        "hasLabel": true
+      },
+      {
+        "id": "message",
+        "invalid": "true",
+        "describedby": "message-error",
+        "errText": "Please include at least 20 characters about the role.",
+        "hasLabel": true
+      }
+    ],
+    "contactSuccess": {
+      "success": true,
+      "consoleSeen": true
+    },
+    "theme": {
+      "isDark": true
+    }
+  },
+  "a11y": {
+    "skipFocus": {
+      "tag": "A",
+      "href": "#main",
+      "text": "Skip to main content",
+      "className": "skip-link"
+    },
+    "brand1280": [
+      {
+        "text": "Harinder Sidhu",
+        "truncated": false
+      },
+      {
+        "text": "Career HQ · Open to Work",
+        "truncated": false
+      }
+    ],
+    "contrastLight": [
+      {
+        "sel": "h1",
+        "ratio": 15.19,
+        "color": [
+          226,
+          232,
+          240
+        ],
+        "bg": [
+          11,
+          18,
+          32
+        ],
+        "text": "Harinder Singh Sidhu"
+      },
+      {
+        "sel": "p",
+        "ratio": 1.98,
+        "color": [
+          167,
+          243,
+          208
+        ],
+        "bg": [
+          16,
+          185,
+          129
+        ],
+        "text": "Open to Work · onsite Mohali/Chandigarh "
+      },
+      {
+        "sel": "header nav a",
+        "ratio": 2.87,
+        "color": [
+          147,
+          197,
+          253
+        ],
+        "bg": [
+          37,
+          99,
+          235
+        ],
+        "text": "Home"
+      },
+      {
+        "sel": ".section-lead",
+        "ratio": 7.3,
+        "color": [
+          148,
+          163,
+          184
+        ],
+        "bg": [
+          11,
+          18,
+          32
+        ],
+        "text": "One profile, two clear pitches: foreign "
+      },
+      {
+        "sel": "var(--muted)",
+        "ratio": 7.3,
+        "color": [
+          148,
+          163,
+          184
+        ],
+        "bg": [
+          11,
+          18,
+          32
+        ]
+      }
+    ],
+    "reducedMotionCss": false,
+    "keyboardSample": [
+      {
+        "tag": "A",
+        "text": "Harinder Sidhu\nCareer HQ · Open to Work",
+        "href": "/"
+      },
+      {
+        "tag": "A",
+        "text": "Home",
+        "href": "/"
+      },
+      {
+        "tag": "A",
+        "text": "Experience",
+        "href": "/experience"
+      },
+      {
+        "tag": "A",
+        "text": "Skills",
+        "href": "/skills"
+      },
+      {
+        "tag": "A",
+        "text": "US/EU",
+        "href": "/markets/us-eu"
+      },
+      {
+        "tag": "A",
+        "text": "India",
+        "href": "/markets/india"
+      },
+      {
+        "tag": "A",
+        "text": "Playbooks",
+        "href": "/playbooks"
+      },
+      {
+        "tag": "A",
+        "text": "Proof",
+        "href": "/proof"
+      },
+      {
+        "tag": "A",
+        "text": "Resume",
+        "href": "/resume"
+      },
+      {
+        "tag": "A",
+        "text": "About",
+        "href": "/about"
+      },
+      {
+        "tag": "A",
+        "text": "Contact",
+        "href": "/contact"
+      },
+      {
+        "tag": "A",
+        "text": "Hire US/EU",
+        "href": "/markets/us-eu"
+      }
+    ],
+    "contrastDark": [
+      {
+        "sel": "h1",
+        "ratio": 15.19,
+        "color": [
+          226,
+          232,
+          240
+        ],
+        "bg": [
+          11,
+          18,
+          32
+        ]
+      },
+      {
+        "sel": "p",
+        "ratio": 1.98,
+        "color": [
+          167,
+          243,
+          208
+        ],
+        "bg": [
+          16,
+          185,
+          129
+        ]
+      },
+      {
+        "sel": "header nav a",
+        "ratio": 2.87,
+        "color": [
+          147,
+          197,
+          253
+        ],
+        "bg": [
+          37,
+          99,
+          235
+        ]
+      },
+      {
+        "sel": ".section-lead",
+        "ratio": 7.3,
+        "color": [
+          148,
+          163,
+          184
+        ],
+        "bg": [
+          11,
+          18,
+          32
+        ]
+      },
+      {
+        "sel": "var(--muted)",
+        "ratio": 7.3,
+        "color": [
+          148,
+          163,
+          184
+        ],
+        "bg": [
+          11,
+          18,
+          32
+        ]
+      }
+    ]
+  },
+  "mobile": {
+    "home": {
+      "overflow": false,
+      "brand": [
+        {
+          "text": "Harinder Sidhu",
+          "truncated": false,
+          "visible": true
+        },
+        {
+          "text": "Career HQ · Open to Work",
+          "truncated": false,
+          "visible": false
+        }
+      ]
+    },
+    "nav": {
+      "before": {
+        "label": "Open menu",
+        "expanded": "false"
+      },
+      "after": {
+        "label": "Close menu",
+        "expanded": "true"
+      },
+      "menuOpen": true
+    },
+    "vp768": {
+      "brand": [
+        {
+          "text": "Harinder Sidhu",
+          "truncated": false,
+          "visible": true
+        },
+        {
+          "text": "Career HQ · Open to Work",
+          "truncated": false,
+          "visible": true
+        }
+      ],
+      "navDisplay": "none",
+      "menuDisplay": "flex",
+      "overflow": false,
+      "w": 768
+    },
+    "vp1024": {
+      "brand": [
+        {
+          "text": "Harinder Sidhu",
+          "truncated": false,
+          "visible": true
+        },
+        {
+          "text": "Career HQ · Open to Work",
+          "truncated": false,
+          "visible": true
+        }
+      ],
+      "navDisplay": "flex",
+      "menuDisplay": "none",
+      "overflow": false,
+      "w": 1024
+    }
+  },
+  "content": {
+    "/": {
+      "has393": true,
+      "has1762": true,
+      "has2233": true,
+      "hasDate": false,
+      "hasStale375": false,
+      "hasStale1672": false,
+      "hasStale2248": false,
+      "hasStaleAug": false,
+      "hasStaleWindow": false
+    },
+    "/resume": {
+      "has393": true,
+      "has1762": true,
+      "has2233": true,
+      "hasDate": false,
+      "hasStale375": false,
+      "hasStale1672": false,
+      "hasStale2248": false,
+      "hasStaleAug": false,
+      "hasStaleWindow": false
+    },
+    "/markets/us-eu": {
+      "has393": true,
+      "has1762": true,
+      "has2233": true,
+      "hasDate": false,
+      "hasStale375": false,
+      "hasStale1672": false,
+      "hasStale2248": false,
+      "hasStaleAug": false,
+      "hasStaleWindow": false
+    }
+  },
+  "console": [],
+  "httpErrors": []
+}
